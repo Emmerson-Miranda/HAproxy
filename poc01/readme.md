@@ -2,7 +2,7 @@
 
 Expose an HTTP endpoint and redirect the call to a backend that requires mTLS.
 
-This also print the request payload of the request for debugging purposes (not recommended for production).
+This also print the request payload for debugging purposes (not recommended for production).
 
 ## Running the example
 
